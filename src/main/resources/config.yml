@@ -1,0 +1,14 @@
+World: MINA
+Sound: NOTE_PLING
+SoundEnabled: false
+ActionBAR: "&a+%valor% &fadicionados"
+Minerios:
+  DIAMOND_ORE: 10
+  EMERALD_ORE: 10
+  REDSTONE_ORE: 10
+  LAPIS_ORE: 10
+  COAL_ORE: 10
+  IRON_ORE: 10
+  GOLD_ORE: 10
+  QUARTZ_ORE: 10
+  STONE: 10

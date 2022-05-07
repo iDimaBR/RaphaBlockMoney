@@ -1,0 +1,4 @@
+name: RaphaBlockMoney
+version: '${project.version}'
+main: com.github.idimabr.raphablockmoney.RaphaBlockMoney
+authors: [ iDimaBR ]
